@@ -33,7 +33,7 @@ else window.onload = blink; </script>
 			background-size: cover;
 		}
 		aside>.jumbotron{
-			background-image: url("image/nyumbu.gif");
+			background-image: url("image/tiger.gif");
 			position: relative;
 		   background-size: cover;
 		   overflow: hidden;
