@@ -1,4 +1,4 @@
-<?php require_once("includes/_dbconnection.php");?>
+<?php require_once("includes/connection.php");?>
 <?php require_once("includes/functions.php");?>
 <?php 
 	$news_get = $_GET["news"]; 
