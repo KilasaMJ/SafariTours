@@ -1,0 +1,30 @@
+html{
+	background-color: black;
+}
+body{
+	background-color: #003e00;
+	color: white;
+	overflow-x: hidden;
+	padding-bottom: 0px;
+}
+._footer{	background-color: black;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+._footer li{
+	list-style: none;
+	font-family: 'Verdana';
+	display: inline-block;
+}
+
+
+
+#_picturetoexplore{
+	padding-bottom: 5px;
+}
+ul>li>.active{
+	background-color: green;
+	text-transform: uppercase;
+	font-family: 'Verdana';
+	color: white;
+}
