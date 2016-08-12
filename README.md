@@ -1,6 +1,8 @@
 # SafariTours
 A simple website build with PHP, Bootstrap, Jquery, CSS and HTML
+
 Created By: KilasaMj as my weekend project
+
 Contact: kilasamj@gmail.com
 
 /*Requirement To Run This Project */
